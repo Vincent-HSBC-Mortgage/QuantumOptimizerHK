@@ -3,7 +3,7 @@ Entropy-Enhanced Annealing for Personalized Optimization (432Hz Calibration)
 # 🌀 QuantumOptimizerHK v3.1 
 
 > **Frequency-Calibrated Entropy-Enhanced Annealing for Personalized Optimization**
-> *Calibrated at 432Hz | Seed: 96315013*
+> *Calibrated at 432Hz | Seed: 001*
 
 ## 🔬 Project Overview
 This project explores the intersection of **Simulated Annealing** and **Stochastic Resonance**. By integrating a specific frequency factor (432Hz), the algorithm attempts to find global optima in complex decision-making landscapes (e.g., urban dining selection in Hong Kong).
